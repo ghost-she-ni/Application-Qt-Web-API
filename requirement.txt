@@ -1,0 +1,5 @@
+PyQt5
+requests
+shodan
+fastapi
+uvicorn # Si vous avez l'intention d'utiliser FastAPI localement

@@ -1,0 +1,8 @@
+name: mon_application
+channels:
+  - defaults
+dependencies:
+  - python=3.8  # Spécifiez la version de Python que vous utilisez
+  - pip
+  - pip:
+    - -r file:requirements.txt  # Ceci installera les dépendances listées dans requirements.txt
